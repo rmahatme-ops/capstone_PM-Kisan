@@ -1,0 +1,649 @@
+Source,State,Period_Label,Beneficiaries,Amount_Disbursed_Rs_Cr,Instalment,Amount_Available,Avg_Rs_Per_Beneficiary
+AU321_RS258,Andaman and Nicobar Islands,2018-19 - 1st Period (Dec 18-March 19),10107.0,,1,False,
+AU321_RS258,Andaman and Nicobar Islands,2019-20 - 2nd Period (April-July 19),13714.0,,2,False,
+AU321_RS258,Andaman and Nicobar Islands,2019-20 - 3rd Period (Aug-Nov 19),15915.0,,3,False,
+AU321_RS258,Andaman and Nicobar Islands,2019-20 - 4th Period (Dec 19-Mach 20),16139.0,,4,False,
+AU1297_RS266,Andaman and Nicobar Islands,5th Instalment (April-July 2020),15971.0,3.26,5,True,2041.1996744098676
+AU1297_RS266,Andaman and Nicobar Islands,6th Instalment (August-November 2020),16254.0,3.25,6,True,1999.5078134613018
+AU1297_RS266,Andaman and Nicobar Islands,7th Instalment (December 2020-March 2021),16109.0,3.22,7,True,1998.882612204358
+AU1297_RS266,Andaman and Nicobar Islands,8th Instalment (April-July 2021),16085.0,3.34,8,True,2076.468759714019
+AU1297_RS266,Andaman and Nicobar Islands,9th Instalment (August-November 2021),15593.0,3.13,9,True,2007.3109728724428
+AU1297_RS266,Andaman and Nicobar Islands,10th Instalment (December 2021-March 2022),15089.0,3.07,10,True,2034.594737888528
+AU1297_RS266,Andaman and Nicobar Islands,11th Instalment (April-July 2022),14952.0,3.05,11,True,2039.860888175495
+AU1297_RS266,Andaman and Nicobar Islands,12th Instalment (August-November 2022),14309.0,2.88,12,True,2012.719267593822
+AU1297_RS266,Andaman and Nicobar Islands,13th Instalment (December 2022-March 2023),13046.0,2.63,13,True,2015.9435842403802
+AU1297_RS266,Andaman and Nicobar Islands,14th Instalment (April-July 2023),13098.0,2.68,14,True,2046.11391052069
+AU1297_RS266,Andaman and Nicobar Islands,15th Instalment (August-November 2023),3620.0,0.93,15,True,2569.060773480663
+AU1297_RS266,Andaman and Nicobar Islands,16th Instalment (December 2023-March 2024),12289.0,4.9,16,True,3987.3057205631053
+AU1297_RS266,Andaman and Nicobar Islands,17th Instalment (April-July 2024),12546.0,2.8,17,True,2231.7870237525904
+AU1297_RS266,Andaman and Nicobar Islands,18th Instalment (August-November 2024),12832.0,2.8,18,True,2182.044887780549
+AU321_RS258,Andhra Pradesh,2018-19 - 1st Period (Dec 18-March 19),3316854.0,,1,False,
+AU321_RS258,Andhra Pradesh,2019-20 - 2nd Period (April-July 19),4175716.0,,2,False,
+AU321_RS258,Andhra Pradesh,2019-20 - 3rd Period (Aug-Nov 19),4204714.0,,3,False,
+AU321_RS258,Andhra Pradesh,2019-20 - 4th Period (Dec 19-Mach 20),4741080.0,,4,False,
+AU1297_RS266,Andhra Pradesh,5th Instalment (April-July 2020),4757732.0,995.23,5,True,2091.8160165389727
+AU1297_RS266,Andhra Pradesh,6th Instalment (August-November 2020),4690570.0,953.22,6,True,2032.2050411783644
+AU1297_RS266,Andhra Pradesh,7th Instalment (December 2020-March 2021),4536332.0,916.67,7,True,2020.7295233241307
+AU1297_RS266,Andhra Pradesh,8th Instalment (April-July 2021),4463009.0,1037.31,8,True,2324.2390951934
+AU1297_RS266,Andhra Pradesh,9th Instalment (August-November 2021),4428728.0,917.55,9,True,2071.8138481297565
+AU1297_RS266,Andhra Pradesh,10th Instalment (December 2021-March 2022),4461403.0,952.91,10,True,2135.897608891194
+AU1297_RS266,Andhra Pradesh,11th Instalment (April-July 2022),4400691.0,932.61,11,True,2119.2353655369125
+AU1297_RS266,Andhra Pradesh,12th Instalment (August-November 2022),4150820.0,1047.28,12,True,2523.067731195282
+AU1297_RS266,Andhra Pradesh,13th Instalment (December 2022-March 2023),4073711.0,980.79,13,True,2407.6081980287754
+AU1297_RS266,Andhra Pradesh,14th Instalment (April-July 2023),4136636.0,996.66,14,True,2409.3490459397444
+AU1297_RS266,Andhra Pradesh,15th Instalment (August-November 2023),3956931.0,893.29,15,True,2257.5324159051547
+AU1297_RS266,Andhra Pradesh,16th Instalment (December 2023-March 2024),4076229.0,923.87,16,True,2266.482084298993
+AU1297_RS266,Andhra Pradesh,17th Instalment (April-July 2024),4140569.0,875.56,17,True,2114.5885988133514
+AU1297_RS266,Andhra Pradesh,18th Instalment (August-November 2024),4122252.0,836.31,18,True,2028.7697113131364
+AU321_RS258,Arunachal Pradesh,2018-19 - 1st Period (Dec 18-March 19),1815.0,,1,False,
+AU321_RS258,Arunachal Pradesh,2019-20 - 2nd Period (April-July 19),6988.0,,2,False,
+AU321_RS258,Arunachal Pradesh,2019-20 - 3rd Period (Aug-Nov 19),42724.0,,3,False,
+AU321_RS258,Arunachal Pradesh,2019-20 - 4th Period (Dec 19-Mach 20),62878.0,,4,False,
+AU1297_RS266,Arunachal Pradesh,5th Instalment (April-July 2020),89275.0,19.01,5,True,2129.375525063008
+AU1297_RS266,Arunachal Pradesh,6th Instalment (August-November 2020),90143.0,18.35,6,True,2035.6544601355624
+AU1297_RS266,Arunachal Pradesh,7th Instalment (December 2020-March 2021),91858.0,19.41,7,True,2113.0440462452916
+AU1297_RS266,Arunachal Pradesh,8th Instalment (April-July 2021),91869.0,18.95,8,True,2062.7197422416702
+AU1297_RS266,Arunachal Pradesh,9th Instalment (August-November 2021),92730.0,18.75,9,True,2021.999352960207
+AU1297_RS266,Arunachal Pradesh,10th Instalment (December 2021-March 2022),93002.0,18.98,10,True,2040.8163265306123
+AU1297_RS266,Arunachal Pradesh,11th Instalment (April-July 2022),94712.0,21.68,11,True,2289.0446828279414
+AU1297_RS266,Arunachal Pradesh,12th Instalment (August-November 2022),93723.0,18.8,12,True,2005.9110357116183
+AU1297_RS266,Arunachal Pradesh,13th Instalment (December 2022-March 2023),60678.0,12.61,13,True,2078.1831965457004
+AU1297_RS266,Arunachal Pradesh,14th Instalment (April-July 2023),68867.0,16.21,14,True,2353.8124210434607
+AU1297_RS266,Arunachal Pradesh,15th Instalment (August-November 2023),54805.0,12.88,15,True,2350.150533710428
+AU1297_RS266,Arunachal Pradesh,16th Instalment (December 2023-March 2024),80053.0,18.93,16,True,2364.6833972493223
+AU1297_RS266,Arunachal Pradesh,17th Instalment (April-July 2024),67451.0,18.52,17,True,2745.696876250908
+AU1297_RS266,Arunachal Pradesh,18th Instalment (August-November 2024),90444.0,25.6,18,True,2830.480739463093
+AU321_RS258,Assam,2018-19 - 1st Period (Dec 18-March 19),1155390.0,,1,False,
+AU321_RS258,Assam,2019-20 - 2nd Period (April-July 19),2453735.0,,2,False,
+AU321_RS258,Assam,2019-20 - 3rd Period (Aug-Nov 19),2112058.0,,3,False,
+AU321_RS258,Assam,2019-20 - 4th Period (Dec 19-Mach 20),2008024.0,,4,False,
+AU1297_RS266,Assam,5th Instalment (April-July 2020),1896634.0,380.22,5,True,2004.7093956978524
+AU1297_RS266,Assam,6th Instalment (August-November 2020),1247218.0,249.44,6,True,1999.9711357597469
+AU1297_RS266,Assam,7th Instalment (December 2020-March 2021),1393331.0,321.13,7,True,2304.7646252039176
+AU1297_RS266,Assam,8th Instalment (April-July 2021),1292455.0,305.57,8,True,2364.260264380578
+AU1297_RS266,Assam,9th Instalment (August-November 2021),927709.0,340.7,9,True,3672.487816761506
+AU1297_RS266,Assam,10th Instalment (December 2021-March 2022),1094288.0,288.05,10,True,2632.3052066731975
+AU1297_RS266,Assam,11th Instalment (April-July 2022),881398.0,192.06,11,True,2179.0383005180406
+AU1297_RS266,Assam,12th Instalment (August-November 2022),489137.0,161.38,12,True,3299.280160772953
+AU1297_RS266,Assam,13th Instalment (December 2022-March 2023),615136.0,221.6,13,True,3602.4553919783593
+AU1297_RS266,Assam,14th Instalment (April-July 2023),875773.0,281.61,14,True,3215.559283056226
+AU1297_RS266,Assam,15th Instalment (August-November 2023),1215892.0,487.61,15,True,4010.306836462449
+AU1297_RS266,Assam,16th Instalment (December 2023-March 2024),1631138.0,589.48,16,True,3613.9186261370896
+AU1297_RS266,Assam,17th Instalment (April-July 2024),1811744.0,424.82,17,True,2344.8125121429957
+AU1297_RS266,Assam,18th Instalment (August-November 2024),1887227.0,403.44,18,True,2137.739657179555
+AU321_RS258,Bihar,2018-19 - 1st Period (Dec 18-March 19),250811.0,,1,False,
+AU321_RS258,Bihar,2019-20 - 2nd Period (April-July 19),2620798.0,,2,False,
+AU321_RS258,Bihar,2019-20 - 3rd Period (Aug-Nov 19),4552073.0,,3,False,
+AU321_RS258,Bihar,2019-20 - 4th Period (Dec 19-Mach 20),6063908.0,,4,False,
+AU1297_RS266,Bihar,5th Instalment (April-July 2020),6955360.0,1466.06,5,True,2107.813254813554
+AU1297_RS266,Bihar,6th Instalment (August-November 2020),7538397.0,1574.11,6,True,2088.122978930401
+AU1297_RS266,Bihar,7th Instalment (December 2020-March 2021),7680555.0,1561.21,7,True,2032.6786280418537
+AU1297_RS266,Bihar,8th Instalment (April-July 2021),7924640.0,1645.14,8,True,2075.980738557209
+AU1297_RS266,Bihar,9th Instalment (August-November 2021),8094051.0,1658.68,9,True,2049.258152685225
+AU1297_RS266,Bihar,10th Instalment (December 2021-March 2022),8263386.0,1732.97,10,True,2097.166948270358
+AU1297_RS266,Bihar,11th Instalment (April-July 2022),8305359.0,1710.25,11,True,2059.21261200148
+AU1297_RS266,Bihar,12th Instalment (August-November 2022),8167296.0,1648.57,12,True,2018.5015946526244
+AU1297_RS266,Bihar,13th Instalment (December 2022-March 2023),7371969.0,1493.77,13,True,2026.2836156798814
+AU1297_RS266,Bihar,14th Instalment (April-July 2023),7568352.0,1580.14,14,True,2087.8257248077257
+AU1297_RS266,Bihar,15th Instalment (August-November 2023),7223738.0,1605.95,15,True,2223.1564876799243
+AU1297_RS266,Bihar,16th Instalment (December 2023-March 2024),7565133.0,1705.66,16,True,2254.633196799052
+AU1297_RS266,Bihar,17th Instalment (April-July 2024),7655824.0,1598.94,17,True,2088.5276359540135
+AU1297_RS266,Bihar,18th Instalment (August-November 2024),7580445.0,1544.4,18,True,2037.347411662508
+AU321_RS258,Chandigarh,2018-19 - 1st Period (Dec 18-March 19),49.0,,1,False,
+AU321_RS258,Chandigarh,2019-20 - 2nd Period (April-July 19),244.0,,2,False,
+AU321_RS258,Chandigarh,2019-20 - 3rd Period (Aug-Nov 19),452.0,,3,False,
+AU321_RS258,Chandigarh,2019-20 - 4th Period (Dec 19-Mach 20),429.0,,4,False,
+AU1297_RS266,Chandigarh,5th Instalment (April-July 2020),430.0,0.09,5,True,2093.0232558139537
+AU1297_RS266,Chandigarh,6th Instalment (August-November 2020),430.0,0.09,6,True,2093.0232558139537
+AU1297_RS266,Chandigarh,7th Instalment (December 2020-March 2021),402.0,0.08,7,True,1990.0497512437812
+AU1297_RS266,Chandigarh,8th Instalment (April-July 2021),386.0,0.08,8,True,2072.538860103627
+AU1297_RS266,Chandigarh,9th Instalment (August-November 2021),378.0,0.08,9,True,2116.4021164021165
+AU1297_RS266,Chandigarh,10th Instalment (December 2021-March 2022),389.0,0.09,10,True,2313.624678663239
+AU1297_RS266,Chandigarh,11th Instalment (April-July 2022),367.0,0.08,11,True,2179.8365122615805
+AU1297_RS266,Chandigarh,12th Instalment (August-November 2022),5.0,,12,False,
+AU1297_RS266,Chandigarh,13th Instalment (December 2022-March 2023),307.0,0.12,13,True,3908.7947882736157
+AU1297_RS266,Chandigarh,14th Instalment (April-July 2023),134.0,0.03,14,True,2238.805970149254
+AU1297_RS266,Chandigarh,15th Instalment (August-November 2023),275.0,0.09,15,True,3272.7272727272725
+AU1297_RS266,Chandigarh,16th Instalment (December 2023-March 2024),340.0,0.12,16,True,3529.4117647058824
+AU1297_RS266,Chandigarh,17th Instalment (April-July 2024),349.0,0.08,17,True,2292.2636103151863
+AU1297_RS266,Chandigarh,18th Instalment (August-November 2024),,,18,False,
+AU321_RS258,Chhattisgarh,2018-19 - 1st Period (Dec 18-March 19),113035.0,,1,False,
+AU321_RS258,Chhattisgarh,2019-20 - 2nd Period (April-July 19),1063512.0,,2,False,
+AU321_RS258,Chhattisgarh,2019-20 - 3rd Period (Aug-Nov 19),1624918.0,,3,False,
+AU321_RS258,Chhattisgarh,2019-20 - 4th Period (Dec 19-Mach 20),1845570.0,,4,False,
+AU1297_RS266,Chhattisgarh,5th Instalment (April-July 2020),2479764.0,554.23,5,True,2235.0110736344263
+AU1297_RS266,Chhattisgarh,6th Instalment (August-November 2020),2640363.0,554.15,6,True,2098.764450191129
+AU1297_RS266,Chhattisgarh,7th Instalment (December 2020-March 2021),2917656.0,624.41,7,True,2140.108360958249
+AU1297_RS266,Chhattisgarh,8th Instalment (April-July 2021),2849510.0,625.12,8,True,2193.780685100245
+AU1297_RS266,Chhattisgarh,9th Instalment (August-November 2021),3024435.0,665.16,9,True,2199.286808941174
+AU1297_RS266,Chhattisgarh,10th Instalment (December 2021-March 2022),2772026.0,630.46,10,True,2274.365391955198
+AU1297_RS266,Chhattisgarh,11th Instalment (April-July 2022),2738189.0,695.33,11,True,2539.379129782495
+AU1297_RS266,Chhattisgarh,12th Instalment (August-November 2022),2036792.0,474.17,12,True,2328.0236764480615
+AU1297_RS266,Chhattisgarh,13th Instalment (December 2022-March 2023),1993352.0,453.15,13,True,2273.3064707086355
+AU1297_RS266,Chhattisgarh,14th Instalment (April-July 2023),2024423.0,450.51,14,True,2225.3748351999557
+AU1297_RS266,Chhattisgarh,15th Instalment (August-November 2023),2154213.0,576.02,15,True,2673.9231450186217
+AU1297_RS266,Chhattisgarh,16th Instalment (December 2023-March 2024),2320526.0,580.28,16,True,2500.6399411167986
+AU1297_RS266,Chhattisgarh,17th Instalment (April-July 2024),2431795.0,577.35,17,True,2374.172165005685
+AU1297_RS266,Chhattisgarh,18th Instalment (August-November 2024),2496294.0,566.34,18,True,2268.7231552052763
+AU321_RS258,Dadra and Nagar Haveli and Daman and Diu,2018-19 - 1st Period (Dec 18-March 19),7580.0,,1,False,
+AU321_RS258,Dadra and Nagar Haveli and Daman and Diu,2019-20 - 2nd Period (April-July 19),11183.0,,2,False,
+AU321_RS258,Dadra and Nagar Haveli and Daman and Diu,2019-20 - 3rd Period (Aug-Nov 19),13519.0,,3,False,
+AU321_RS258,Dadra and Nagar Haveli and Daman and Diu,2019-20 - 4th Period (Dec 19-Mach 20),13556.0,,4,False,
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,5th Instalment (April-July 2020),14034.0,2.92,5,True,2080.6612512469715
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,6th Instalment (August-November 2020),9410.0,1.88,6,True,1997.874601487779
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,7th Instalment (December 2020-March 2021),9690.0,1.95,7,True,2012.3839009287926
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,8th Instalment (April-July 2021),9849.0,2.11,8,True,2142.3494771042747
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,9th Instalment (August-November 2021),7561.0,2.68,9,True,3544.5046951461445
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,10th Instalment (December 2021-March 2022),11481.0,3.7,10,True,3222.7157913073775
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,11th Instalment (April-July 2022),12737.0,3.71,11,True,2912.7738085891497
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,12th Instalment (August-November 2022),12599.0,2.6,12,True,2063.6558457020396
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,13th Instalment (December 2022-March 2023),11429.0,2.34,13,True,2047.423221629189
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,14th Instalment (April-July 2023),11492.0,2.42,14,True,2105.8127392969022
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,15th Instalment (August-November 2023),10346.0,2.33,15,True,2252.078097815581
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,16th Instalment (December 2023-March 2024),11335.0,3.22,16,True,2840.758711954125
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,17th Instalment (April-July 2024),11567.0,2.56,17,True,2213.192703380306
+AU1297_RS266,Dadra and Nagar Haveli and Daman and Diu,18th Instalment (August-November 2024),11587.0,2.44,18,True,2105.808233364978
+AU321_RS258,Delhi,2018-19 - 1st Period (Dec 18-March 19),,,1,False,
+AU321_RS258,Delhi,2019-20 - 2nd Period (April-July 19),,,2,False,
+AU321_RS258,Delhi,2019-20 - 3rd Period (Aug-Nov 19),11534.0,,3,False,
+AU321_RS258,Delhi,2019-20 - 4th Period (Dec 19-Mach 20),12452.0,,4,False,
+AU1297_RS266,Delhi,5th Instalment (April-July 2020),13331.0,2.76,5,True,2070.3623134048457
+AU1297_RS266,Delhi,6th Instalment (August-November 2020),14045.0,2.89,6,True,2057.6717693129226
+AU1297_RS266,Delhi,7th Instalment (December 2020-March 2021),13690.0,2.88,7,True,2103.72534696859
+AU1297_RS266,Delhi,8th Instalment (April-July 2021),13974.0,3.1,8,True,2218.40561041935
+AU1297_RS266,Delhi,9th Instalment (August-November 2021),14490.0,3.01,9,True,2077.2946859903377
+AU1297_RS266,Delhi,10th Instalment (December 2021-March 2022),14618.0,3.06,10,True,2093.3096182788345
+AU1297_RS266,Delhi,11th Instalment (April-July 2022),14887.0,3.29,11,True,2209.981863370726
+AU1297_RS266,Delhi,12th Instalment (August-November 2022),12409.0,2.5,12,True,2014.6667741155613
+AU1297_RS266,Delhi,13th Instalment (December 2022-March 2023),12658.0,2.65,13,True,2093.537683678306
+AU1297_RS266,Delhi,14th Instalment (April-July 2023),12931.0,2.77,14,True,2142.139045704122
+AU1297_RS266,Delhi,15th Instalment (August-November 2023),8302.0,1.97,15,True,2372.922187424717
+AU1297_RS266,Delhi,16th Instalment (December 2023-March 2024),10240.0,3.22,16,True,3144.5312500000005
+AU1297_RS266,Delhi,17th Instalment (April-July 2024),10808.0,2.51,17,True,2322.3538119911173
+AU1297_RS266,Delhi,18th Instalment (August-November 2024),10765.0,2.23,18,True,2071.5281003251275
+AU321_RS258,Goa,2018-19 - 1st Period (Dec 18-March 19),2439.0,,1,False,
+AU321_RS258,Goa,2019-20 - 2nd Period (April-July 19),4260.0,,2,False,
+AU321_RS258,Goa,2019-20 - 3rd Period (Aug-Nov 19),6595.0,,3,False,
+AU321_RS258,Goa,2019-20 - 4th Period (Dec 19-Mach 20),7491.0,,4,False,
+AU1297_RS266,Goa,5th Instalment (April-July 2020),8339.0,1.81,5,True,2170.5240436503177
+AU1297_RS266,Goa,6th Instalment (August-November 2020),9145.0,1.94,6,True,2121.377802077638
+AU1297_RS266,Goa,7th Instalment (December 2020-March 2021),8762.0,1.82,7,True,2077.151335311573
+AU1297_RS266,Goa,8th Instalment (April-July 2021),9263.0,2.08,8,True,2245.492820900356
+AU1297_RS266,Goa,9th Instalment (August-November 2021),9127.0,1.85,9,True,2026.9529966034843
+AU1297_RS266,Goa,10th Instalment (December 2021-March 2022),8879.0,1.8,10,True,2027.255321545219
+AU1297_RS266,Goa,11th Instalment (April-July 2022),8541.0,1.96,11,True,2294.8132537173633
+AU1297_RS266,Goa,12th Instalment (August-November 2022),6638.0,1.35,12,True,2033.745103946972
+AU1297_RS266,Goa,13th Instalment (December 2022-March 2023),5949.0,1.43,13,True,2403.7653387123887
+AU1297_RS266,Goa,14th Instalment (April-July 2023),5664.0,1.21,14,True,2136.299435028249
+AU1297_RS266,Goa,15th Instalment (August-November 2023),5982.0,1.37,15,True,2290.20394516884
+AU1297_RS266,Goa,16th Instalment (December 2023-March 2024),6263.0,1.76,16,True,2810.1548778540637
+AU1297_RS266,Goa,17th Instalment (April-July 2024),6322.0,1.36,17,True,2151.217968997153
+AU1297_RS266,Goa,18th Instalment (August-November 2024),6332.0,1.33,18,True,2100.442198357549
+AU321_RS258,Gujarat,2018-19 - 1st Period (Dec 18-March 19),2858911.0,,1,False,
+AU321_RS258,Gujarat,2019-20 - 2nd Period (April-July 19),3960784.0,,2,False,
+AU321_RS258,Gujarat,2019-20 - 3rd Period (Aug-Nov 19),4689076.0,,3,False,
+AU321_RS258,Gujarat,2019-20 - 4th Period (Dec 19-Mach 20),4870678.0,,4,False,
+AU1297_RS266,Gujarat,5th Instalment (April-July 2020),5295254.0,1146.03,5,True,2164.258787208319
+AU1297_RS266,Gujarat,6th Instalment (August-November 2020),5567088.0,1147.08,6,True,2060.4668005966496
+AU1297_RS266,Gujarat,7th Instalment (December 2020-March 2021),5402185.0,1087.57,7,True,2013.2039165633905
+AU1297_RS266,Gujarat,8th Instalment (April-July 2021),5543935.0,1184.44,8,True,2136.460835128839
+AU1297_RS266,Gujarat,9th Instalment (August-November 2021),5605178.0,1164.8,9,True,2078.078519540325
+AU1297_RS266,Gujarat,10th Instalment (December 2021-March 2022),5842166.0,1250.97,10,True,2141.2777384278365
+AU1297_RS266,Gujarat,11th Instalment (April-July 2022),5880132.0,1204.82,11,True,2048.967608210156
+AU1297_RS266,Gujarat,12th Instalment (August-November 2022),5187429.0,1056.11,12,True,2035.9025636784615
+AU1297_RS266,Gujarat,13th Instalment (December 2022-March 2023),4379108.0,909.14,13,True,2076.084901308668
+AU1297_RS266,Gujarat,14th Instalment (April-July 2023),4517853.0,961.37,14,True,2127.9355481464313
+AU1297_RS266,Gujarat,15th Instalment (August-November 2023),4235545.0,1044.6,15,True,2466.2705743888923
+AU1297_RS266,Gujarat,16th Instalment (December 2023-March 2024),4640941.0,1203.53,16,True,2593.2887317464283
+AU1297_RS266,Gujarat,17th Instalment (April-July 2024),4845930.0,1084.41,17,True,2237.7747924546993
+AU1297_RS266,Gujarat,18th Instalment (August-November 2024),4912111.0,1038.67,18,True,2114.508405856464
+AU321_RS258,Haryana,2018-19 - 1st Period (Dec 18-March 19),966435.0,,1,False,
+AU321_RS258,Haryana,2019-20 - 2nd Period (April-July 19),1249040.0,,2,False,
+AU321_RS258,Haryana,2019-20 - 3rd Period (Aug-Nov 19),1429942.0,,3,False,
+AU321_RS258,Haryana,2019-20 - 4th Period (Dec 19-Mach 20),1547031.0,,4,False,
+AU1297_RS266,Haryana,5th Instalment (April-July 2020),1687047.0,379.11,5,True,2247.1810210385365
+AU1297_RS266,Haryana,6th Instalment (August-November 2020),1825169.0,387.71,6,True,2124.2416455681637
+AU1297_RS266,Haryana,7th Instalment (December 2020-March 2021),1842843.0,385.43,7,True,2091.4966711760035
+AU1297_RS266,Haryana,8th Instalment (April-July 2021),1741125.0,362.36,8,True,2081.183143082777
+AU1297_RS266,Haryana,9th Instalment (August-November 2021),1845863.0,397.42,9,True,2153.0308587365366
+AU1297_RS266,Haryana,10th Instalment (December 2021-March 2022),1865784.0,386.81,10,True,2073.1767450037087
+AU1297_RS266,Haryana,11th Instalment (April-July 2022),1841461.0,391.1,11,True,2123.857089560952
+AU1297_RS266,Haryana,12th Instalment (August-November 2022),1314815.0,264.26,12,True,2009.8645056528865
+AU1297_RS266,Haryana,13th Instalment (December 2022-March 2023),1469375.0,331.04,13,True,2252.9306678009357
+AU1297_RS266,Haryana,14th Instalment (April-July 2023),1539260.0,344.21,14,True,2236.204409911256
+AU1297_RS266,Haryana,15th Instalment (August-November 2023),1384970.0,323.07,15,True,2332.6859065539325
+AU1297_RS266,Haryana,16th Instalment (December 2023-March 2024),1518308.0,375.33,16,True,2472.0280733553404
+AU1297_RS266,Haryana,17th Instalment (April-July 2024),1587992.0,362.17,17,True,2280.678995863959
+AU1297_RS266,Haryana,18th Instalment (August-November 2024),1598937.0,341.98,18,True,2138.795962567631
+AU321_RS258,Himachal Pradesh,2018-19 - 1st Period (Dec 18-March 19),457027.0,,1,False,
+AU321_RS258,Himachal Pradesh,2019-20 - 2nd Period (April-July 19),736191.0,,2,False,
+AU321_RS258,Himachal Pradesh,2019-20 - 3rd Period (Aug-Nov 19),834563.0,,3,False,
+AU321_RS258,Himachal Pradesh,2019-20 - 4th Period (Dec 19-Mach 20),865303.0,,4,False,
+AU1297_RS266,Himachal Pradesh,5th Instalment (April-July 2020),890915.0,182.9,5,True,2052.9455671977685
+AU1297_RS266,Himachal Pradesh,6th Instalment (August-November 2020),909924.0,185.15,6,True,2034.78532273025
+AU1297_RS266,Himachal Pradesh,7th Instalment (December 2020-March 2021),903998.0,181.38,7,True,2006.4203681866552
+AU1297_RS266,Himachal Pradesh,8th Instalment (April-July 2021),908840.0,186.42,8,True,2051.1861273711543
+AU1297_RS266,Himachal Pradesh,9th Instalment (August-November 2021),936723.0,191.01,9,True,2039.1300309696676
+AU1297_RS266,Himachal Pradesh,10th Instalment (December 2021-March 2022),941413.0,192.75,10,True,2047.454199166572
+AU1297_RS266,Himachal Pradesh,11th Instalment (April-July 2022),942131.0,198.15,11,True,2103.2106999981957
+AU1297_RS266,Himachal Pradesh,12th Instalment (August-November 2022),572128.0,115.13,12,True,2012.3119301974384
+AU1297_RS266,Himachal Pradesh,13th Instalment (December 2022-March 2023),670394.0,156.88,13,True,2340.1164091564065
+AU1297_RS266,Himachal Pradesh,14th Instalment (April-July 2023),739076.0,177.59,14,True,2402.8651992487917
+AU1297_RS266,Himachal Pradesh,15th Instalment (August-November 2023),715975.0,169.9,15,True,2372.9878836551557
+AU1297_RS266,Himachal Pradesh,16th Instalment (December 2023-March 2024),771348.0,185.73,16,True,2407.8625989825605
+AU1297_RS266,Himachal Pradesh,17th Instalment (April-July 2024),806655.0,190.48,17,True,2361.3564658993
+AU1297_RS266,Himachal Pradesh,18th Instalment (August-November 2024),817494.0,171.88,18,True,2102.5230766219693
+AU321_RS258,Jammu and Kashmir,2018-19 - 1st Period (Dec 18-March 19),457859.0,,1,False,
+AU321_RS258,Jammu and Kashmir,2019-20 - 2nd Period (April-July 19),716273.0,,2,False,
+AU321_RS258,Jammu and Kashmir,2019-20 - 3rd Period (Aug-Nov 19),865229.0,,3,False,
+AU321_RS258,Jammu and Kashmir,2019-20 - 4th Period (Dec 19-Mach 20),983481.0,,4,False,
+AU1297_RS266,Jammu and Kashmir,5th Instalment (April-July 2020),1027711.0,209.08,5,True,2034.4240744722983
+AU1297_RS266,Jammu and Kashmir,6th Instalment (August-November 2020),1112791.0,248.75,6,True,2235.370343577545
+AU1297_RS266,Jammu and Kashmir,7th Instalment (December 2020-March 2021),1128490.0,233.06,7,True,2065.2376184104423
+AU1297_RS266,Jammu and Kashmir,8th Instalment (April-July 2021),871748.0,187.39,8,True,2149.589101437571
+AU1297_RS266,Jammu and Kashmir,9th Instalment (August-November 2021),879842.0,183.43,9,True,2084.806135647082
+AU1297_RS266,Jammu and Kashmir,10th Instalment (December 2021-March 2022),1097244.0,294.47,10,True,2683.723948365177
+AU1297_RS266,Jammu and Kashmir,11th Instalment (April-July 2022),1092655.0,252.29,11,True,2308.963030416737
+AU1297_RS266,Jammu and Kashmir,12th Instalment (August-November 2022),432229.0,88.19,12,True,2040.3536088508638
+AU1297_RS266,Jammu and Kashmir,13th Instalment (December 2022-March 2023),667401.0,188.13,13,True,2818.845042186032
+AU1297_RS266,Jammu and Kashmir,14th Instalment (April-July 2023),731860.0,176.61,14,True,2413.1664526002246
+AU1297_RS266,Jammu and Kashmir,15th Instalment (August-November 2023),765559.0,180.01,15,True,2351.3537166959045
+AU1297_RS266,Jammu and Kashmir,16th Instalment (December 2023-March 2024),825628.0,215.12,16,True,2605.5317891350583
+AU1297_RS266,Jammu and Kashmir,17th Instalment (April-July 2024),853704.0,192.51,17,True,2254.997048157207
+AU1297_RS266,Jammu and Kashmir,18th Instalment (August-November 2024),858257.0,182.54,18,True,2126.8687584255067
+AU321_RS258,Jharkhand,2018-19 - 1st Period (Dec 18-March 19),563552.0,,1,False,
+AU321_RS258,Jharkhand,2019-20 - 2nd Period (April-July 19),726754.0,,2,False,
+AU321_RS258,Jharkhand,2019-20 - 3rd Period (Aug-Nov 19),1332679.0,,3,False,
+AU321_RS258,Jharkhand,2019-20 - 4th Period (Dec 19-Mach 20),708427.0,,4,False,
+AU1297_RS266,Jharkhand,5th Instalment (April-July 2020),1518901.0,439.31,5,True,2892.288569169419
+AU1297_RS266,Jharkhand,6th Instalment (August-November 2020),2277786.0,504.84,6,True,2216.362731178434
+AU1297_RS266,Jharkhand,7th Instalment (December 2020-March 2021),2255748.0,460.3,7,True,2040.5648148640716
+AU1297_RS266,Jharkhand,8th Instalment (April-July 2021),1589008.0,390.77,8,True,2459.2072538338384
+AU1297_RS266,Jharkhand,9th Instalment (August-November 2021),1628561.0,361.43,9,True,2219.321228986817
+AU1297_RS266,Jharkhand,10th Instalment (December 2021-March 2022),1659896.0,376.96,10,True,2270.9856521131446
+AU1297_RS266,Jharkhand,11th Instalment (April-July 2022),2225573.0,717.16,11,True,3222.3611627207915
+AU1297_RS266,Jharkhand,12th Instalment (August-November 2022),1273956.0,350.19,12,True,2748.839049386321
+AU1297_RS266,Jharkhand,13th Instalment (December 2022-March 2023),1176903.0,260.26,13,True,2211.3972009587874
+AU1297_RS266,Jharkhand,14th Instalment (April-July 2023),1302856.0,318.78,14,True,2446.77846208637
+AU1297_RS266,Jharkhand,15th Instalment (August-November 2023),1259786.0,381.94,15,True,3031.78476344395
+AU1297_RS266,Jharkhand,16th Instalment (December 2023-March 2024),1618075.0,839.79,16,True,5190.056085162925
+AU1297_RS266,Jharkhand,17th Instalment (April-July 2024),1842809.0,633.31,17,True,3436.655670772174
+AU1297_RS266,Jharkhand,18th Instalment (August-November 2024),1997224.0,545.97,18,True,2733.644298286021
+AU321_RS258,Karnataka,2018-19 - 1st Period (Dec 18-March 19),19872.0,,1,False,
+AU321_RS258,Karnataka,2019-20 - 2nd Period (April-July 19),2963051.0,,2,False,
+AU321_RS258,Karnataka,2019-20 - 3rd Period (Aug-Nov 19),4666930.0,,3,False,
+AU321_RS258,Karnataka,2019-20 - 4th Period (Dec 19-Mach 20),4947227.0,,4,False,
+AU1297_RS266,Karnataka,5th Instalment (April-July 2020),5114512.0,1033.93,5,True,2021.561392367444
+AU1297_RS266,Karnataka,6th Instalment (August-November 2020),5219760.0,1061.53,6,True,2033.6758778181372
+AU1297_RS266,Karnataka,7th Instalment (December 2020-March 2021),5281757.0,1063.26,7,True,2013.0801170898244
+AU1297_RS266,Karnataka,8th Instalment (April-July 2021),5177858.0,1071.23,8,True,2068.867087509932
+AU1297_RS266,Karnataka,9th Instalment (August-November 2021),5213008.0,1092.11,9,True,2094.9708882088803
+AU1297_RS266,Karnataka,10th Instalment (December 2021-March 2022),3453252.0,709.48,10,True,2054.527152956112
+AU1297_RS266,Karnataka,11th Instalment (April-July 2022),4920226.0,1300.7,11,True,2643.5777543551862
+AU1297_RS266,Karnataka,12th Instalment (August-November 2022),5005169.0,1069.07,12,True,2135.9318736290425
+AU1297_RS266,Karnataka,13th Instalment (December 2022-March 2023),4847557.0,1044.33,13,True,2154.342898907635
+AU1297_RS266,Karnataka,14th Instalment (April-July 2023),4934530.0,1017.44,14,True,2061.878233590636
+AU1297_RS266,Karnataka,15th Instalment (August-November 2023),4378004.0,966.43,15,True,2207.4671471291485
+AU1297_RS266,Karnataka,16th Instalment (December 2023-March 2024),4434025.0,979.5,16,True,2209.0538506210496
+AU1297_RS266,Karnataka,17th Instalment (April-July 2024),4304818.0,958.26,17,True,2226.017453002659
+AU1297_RS266,Karnataka,18th Instalment (August-November 2024),4347737.0,941.76,18,True,2166.0923832329327
+AU321_RS258,Kerala,2018-19 - 1st Period (Dec 18-March 19),957969.0,,1,False,
+AU321_RS258,Kerala,2019-20 - 2nd Period (April-July 19),1864855.0,,2,False,
+AU321_RS258,Kerala,2019-20 - 3rd Period (Aug-Nov 19),2704961.0,,3,False,
+AU321_RS258,Kerala,2019-20 - 4th Period (Dec 19-Mach 20),2690840.0,,4,False,
+AU1297_RS266,Kerala,5th Instalment (April-July 2020),3001874.0,682.63,5,True,2274.012833316788
+AU1297_RS266,Kerala,6th Instalment (August-November 2020),3352808.0,713.79,6,True,2128.9319281032494
+AU1297_RS266,Kerala,7th Instalment (December 2020-March 2021),3464869.0,717.92,7,True,2071.997527179238
+AU1297_RS266,Kerala,8th Instalment (April-July 2021),3357682.0,694.42,8,True,2068.152969816677
+AU1297_RS266,Kerala,9th Instalment (August-November 2021),3482013.0,739.32,9,True,2123.254565677957
+AU1297_RS266,Kerala,10th Instalment (December 2021-March 2022),3545239.0,752.43,10,True,2122.3674905979537
+AU1297_RS266,Kerala,11th Instalment (April-July 2022),3462015.0,707.34,11,True,2043.1453936508074
+AU1297_RS266,Kerala,12th Instalment (August-November 2022),2001850.0,406.78,12,True,2032.0203811474385
+AU1297_RS266,Kerala,13th Instalment (December 2022-March 2023),2129984.0,485.22,13,True,2278.0452810913134
+AU1297_RS266,Kerala,14th Instalment (April-July 2023),2340995.0,554.16,14,True,2367.1985630041927
+AU1297_RS266,Kerala,15th Instalment (August-November 2023),2350848.0,662.25,15,True,2817.0685641947075
+AU1297_RS266,Kerala,16th Instalment (December 2023-March 2024),2648060.0,689.25,16,True,2602.84887804657
+AU1297_RS266,Kerala,17th Instalment (April-July 2024),2757427.0,637.24,17,True,2310.9949964223892
+AU1297_RS266,Kerala,18th Instalment (August-November 2024),2815143.0,597.93,18,True,2123.9773610079483
+AU321_RS258,Ladakh,2018-19 - 1st Period (Dec 18-March 19),7144.0,,1,False,
+AU321_RS258,Ladakh,2019-20 - 2nd Period (April-July 19),10189.0,,2,False,
+AU321_RS258,Ladakh,2019-20 - 3rd Period (Aug-Nov 19),13421.0,,3,False,
+AU321_RS258,Ladakh,2019-20 - 4th Period (Dec 19-Mach 20),14118.0,,4,False,
+AU1297_RS266,Ladakh,5th Instalment (April-July 2020),14077.0,3.23,5,True,2294.522980748739
+AU1297_RS266,Ladakh,6th Instalment (August-November 2020),13679.0,2.74,6,True,2003.0703998830327
+AU1297_RS266,Ladakh,7th Instalment (December 2020-March 2021),16736.0,3.37,7,True,2013.623326959847
+AU1297_RS266,Ladakh,8th Instalment (April-July 2021),17418.0,3.84,8,True,2204.615914571133
+AU1297_RS266,Ladakh,9th Instalment (August-November 2021),17088.0,3.68,9,True,2153.558052434457
+AU1297_RS266,Ladakh,10th Instalment (December 2021-March 2022),17190.0,3.63,10,True,2111.692844677138
+AU1297_RS266,Ladakh,11th Instalment (April-July 2022),17311.0,3.65,11,True,2108.4859337993184
+AU1297_RS266,Ladakh,12th Instalment (August-November 2022),16500.0,3.44,12,True,2084.848484848485
+AU1297_RS266,Ladakh,13th Instalment (December 2022-March 2023),14499.0,3.29,13,True,2269.1220084143733
+AU1297_RS266,Ladakh,14th Instalment (April-July 2023),14453.0,3.49,14,True,2414.7235867985887
+AU1297_RS266,Ladakh,15th Instalment (August-November 2023),14807.0,3.73,15,True,2519.0788140744244
+AU1297_RS266,Ladakh,16th Instalment (December 2023-March 2024),17682.0,4.73,16,True,2675.03676054745
+AU1297_RS266,Ladakh,17th Instalment (April-July 2024),18192.0,4.05,17,True,2226.2532981530344
+AU1297_RS266,Ladakh,18th Instalment (August-November 2024),18201.0,3.77,18,True,2071.314762925114
+AU321_RS258,Lakshadweep,2018-19 - 1st Period (Dec 18-March 19),,,1,False,
+AU321_RS258,Lakshadweep,2019-20 - 2nd Period (April-July 19),,,2,False,
+AU321_RS258,Lakshadweep,2019-20 - 3rd Period (Aug-Nov 19),,,3,False,
+AU321_RS258,Lakshadweep,2019-20 - 4th Period (Dec 19-Mach 20),1515.0,,4,False,
+AU1297_RS266,Lakshadweep,5th Instalment (April-July 2020),650.0,0.29,5,True,4461.538461538462
+AU1297_RS266,Lakshadweep,6th Instalment (August-November 2020),700.0,0.23,6,True,3285.714285714286
+AU1297_RS266,Lakshadweep,7th Instalment (December 2020-March 2021),827.0,0.17,7,True,2055.622732769045
+AU1297_RS266,Lakshadweep,8th Instalment (April-July 2021),870.0,0.26,8,True,2988.5057471264367
+AU1297_RS266,Lakshadweep,9th Instalment (August-November 2021),833.0,0.17,9,True,2040.8163265306125
+AU1297_RS266,Lakshadweep,10th Instalment (December 2021-March 2022),,,10,False,
+AU1297_RS266,Lakshadweep,11th Instalment (April-July 2022),,,11,False,
+AU1297_RS266,Lakshadweep,12th Instalment (August-November 2022),841.0,0.5,12,True,5945.303210463734
+AU1297_RS266,Lakshadweep,13th Instalment (December 2022-March 2023),725.0,0.15,13,True,2068.9655172413795
+AU1297_RS266,Lakshadweep,14th Instalment (April-July 2023),1436.0,1.98,14,True,13788.300835654596
+AU1297_RS266,Lakshadweep,15th Instalment (August-November 2023),1211.0,0.4,15,True,3303.0553261767136
+AU1297_RS266,Lakshadweep,16th Instalment (December 2023-March 2024),1314.0,0.54,16,True,4109.58904109589
+AU1297_RS266,Lakshadweep,17th Instalment (April-July 2024),1972.0,0.54,17,True,2738.3367139959432
+AU1297_RS266,Lakshadweep,18th Instalment (August-November 2024),2198.0,0.45,18,True,2047.3157415832575
+AU321_RS258,Madhya Pradesh,2018-19 - 1st Period (Dec 18-March 19),9288.0,,1,False,
+AU321_RS258,Madhya Pradesh,2019-20 - 2nd Period (April-July 19),2505965.0,,2,False,
+AU321_RS258,Madhya Pradesh,2019-20 - 3rd Period (Aug-Nov 19),4930776.0,,3,False,
+AU321_RS258,Madhya Pradesh,2019-20 - 4th Period (Dec 19-Mach 20),6002195.0,,4,False,
+AU1297_RS266,Madhya Pradesh,5th Instalment (April-July 2020),7494277.0,1831.65,5,True,2444.064984520855
+AU1297_RS266,Madhya Pradesh,6th Instalment (August-November 2020),7853617.0,1649.97,6,True,2100.90458956682
+AU1297_RS266,Madhya Pradesh,7th Instalment (December 2020-March 2021),8000070.0,1679.0,7,True,2098.731636098184
+AU1297_RS266,Madhya Pradesh,8th Instalment (April-July 2021),8259905.0,1757.89,8,True,2128.2206030214634
+AU1297_RS266,Madhya Pradesh,9th Instalment (August-November 2021),8329603.0,1698.24,9,True,2038.800648722394
+AU1297_RS266,Madhya Pradesh,10th Instalment (December 2021-March 2022),8452130.0,1737.19,10,True,2055.3280652332605
+AU1297_RS266,Madhya Pradesh,11th Instalment (April-July 2022),8347797.0,1730.07,11,True,2072.486908821573
+AU1297_RS266,Madhya Pradesh,12th Instalment (August-November 2022),8158380.0,1681.42,12,True,2060.972889225557
+AU1297_RS266,Madhya Pradesh,13th Instalment (December 2022-March 2023),7144430.0,1467.24,13,True,2053.6837788319012
+AU1297_RS266,Madhya Pradesh,14th Instalment (April-July 2023),7642661.0,1684.92,14,True,2204.624802801014
+AU1297_RS266,Madhya Pradesh,15th Instalment (August-November 2023),7568447.0,1705.95,15,True,2254.029129093459
+AU1297_RS266,Madhya Pradesh,16th Instalment (December 2023-March 2024),7987390.0,1808.28,16,True,2263.9185015380494
+AU1297_RS266,Madhya Pradesh,17th Instalment (April-July 2024),8080376.0,1679.83,17,True,2078.9007838249113
+AU1297_RS266,Madhya Pradesh,18th Instalment (August-November 2024),8136105.0,1681.86,18,True,2067.1562129544786
+AU321_RS258,Maharashtra,2018-19 - 1st Period (Dec 18-March 19),2184063.0,,1,False,
+AU321_RS258,Maharashtra,2019-20 - 2nd Period (April-July 19),4523490.0,,2,False,
+AU321_RS258,Maharashtra,2019-20 - 3rd Period (Aug-Nov 19),7146748.0,,3,False,
+AU321_RS258,Maharashtra,2019-20 - 4th Period (Dec 19-Mach 20),8633988.0,,4,False,
+AU1297_RS266,Maharashtra,5th Instalment (April-July 2020),9697517.0,2189.04,5,True,2257.320095442988
+AU1297_RS266,Maharashtra,6th Instalment (August-November 2020),10520801.0,2282.45,6,True,2169.464093085688
+AU1297_RS266,Maharashtra,7th Instalment (December 2020-March 2021),10391862.0,2201.0,7,True,2118.003491578314
+AU1297_RS266,Maharashtra,8th Instalment (April-July 2021),9238235.0,1928.01,8,True,2086.9895602352613
+AU1297_RS266,Maharashtra,9th Instalment (August-November 2021),10252873.0,2316.49,9,True,2259.3569626776803
+AU1297_RS266,Maharashtra,10th Instalment (December 2021-March 2022),10445434.0,2187.87,10,True,2094.570699503726
+AU1297_RS266,Maharashtra,11th Instalment (April-July 2022),10126222.0,2059.91,11,True,2034.233497942273
+AU1297_RS266,Maharashtra,12th Instalment (August-November 2022),9025926.0,1889.35,12,True,2093.2478285330503
+AU1297_RS266,Maharashtra,13th Instalment (December 2022-March 2023),8122454.0,1709.1,13,True,2104.1670411429845
+AU1297_RS266,Maharashtra,14th Instalment (April-July 2023),8560196.0,1867.2,14,True,2181.258466511748
+AU1297_RS266,Maharashtra,15th Instalment (August-November 2023),8454857.0,1996.33,15,True,2361.16353002777
+AU1297_RS266,Maharashtra,16th Instalment (December 2023-March 2024),8961525.0,2024.93,16,True,2259.581934994323
+AU1297_RS266,Maharashtra,17th Instalment (April-July 2024),9143017.0,1940.0,17,True,2121.8379009904497
+AU1297_RS266,Maharashtra,18th Instalment (August-November 2024),9141983.0,1888.21,18,True,2065.427161700038
+AU321_RS258,Manipur,2018-19 - 1st Period (Dec 18-March 19),31350.0,,1,False,
+AU321_RS258,Manipur,2019-20 - 2nd Period (April-July 19),29244.0,,2,False,
+AU321_RS258,Manipur,2019-20 - 3rd Period (Aug-Nov 19),90286.0,,3,False,
+AU321_RS258,Manipur,2019-20 - 4th Period (Dec 19-Mach 20),271283.0,,4,False,
+AU1297_RS266,Manipur,5th Instalment (April-July 2020),454134.0,95.16,5,True,2095.4167712613457
+AU1297_RS266,Manipur,6th Instalment (August-November 2020),350676.0,70.78,6,True,2018.3873433026497
+AU1297_RS266,Manipur,7th Instalment (December 2020-March 2021),356367.0,72.3,7,True,2028.8073811548206
+AU1297_RS266,Manipur,8th Instalment (April-July 2021),287282.0,58.8,8,True,2046.7693764315202
+AU1297_RS266,Manipur,9th Instalment (August-November 2021),277913.0,56.84,9,True,2045.2443750382313
+AU1297_RS266,Manipur,10th Instalment (December 2021-March 2022),280140.0,61.51,10,True,2195.687870350539
+AU1297_RS266,Manipur,11th Instalment (April-July 2022),364830.0,105.94,11,True,2903.8182167036703
+AU1297_RS266,Manipur,12th Instalment (August-November 2022),366207.0,86.95,12,True,2374.3401955724494
+AU1297_RS266,Manipur,13th Instalment (December 2022-March 2023),,,13,False,
+AU1297_RS266,Manipur,14th Instalment (April-July 2023),3711.0,1.72,14,True,4634.869307464295
+AU1297_RS266,Manipur,15th Instalment (August-November 2023),5871.0,2.53,15,True,4309.316981774825
+AU1297_RS266,Manipur,16th Instalment (December 2023-March 2024),104234.0,70.38,16,True,6752.115432584377
+AU1297_RS266,Manipur,17th Instalment (April-July 2024),79194.0,28.01,17,True,3536.8841073818726
+AU1297_RS266,Manipur,18th Instalment (August-November 2024),85917.0,42.78,18,True,4979.224134920912
+AU321_RS258,Meghalaya,2018-19 - 1st Period (Dec 18-March 19),9307.0,,1,False,
+AU321_RS258,Meghalaya,2019-20 - 2nd Period (April-July 19),26725.0,,2,False,
+AU321_RS258,Meghalaya,2019-20 - 3rd Period (Aug-Nov 19),61412.0,,3,False,
+AU321_RS258,Meghalaya,2019-20 - 4th Period (Dec 19-Mach 20),98732.0,,4,False,
+AU1297_RS266,Meghalaya,5th Instalment (April-July 2020),162524.0,34.67,5,True,2133.2234008515666
+AU1297_RS266,Meghalaya,6th Instalment (August-November 2020),177153.0,35.82,6,True,2021.98099947503
+AU1297_RS266,Meghalaya,7th Instalment (December 2020-March 2021),181428.0,36.81,7,True,2028.9040280441827
+AU1297_RS266,Meghalaya,8th Instalment (April-July 2021),180845.0,36.97,8,True,2044.2920733224585
+AU1297_RS266,Meghalaya,9th Instalment (August-November 2021),191116.0,40.17,9,True,2101.8648360158227
+AU1297_RS266,Meghalaya,10th Instalment (December 2021-March 2022),186231.0,38.51,10,True,2067.8619563874972
+AU1297_RS266,Meghalaya,11th Instalment (April-July 2022),95195.0,19.52,11,True,2050.527863858396
+AU1297_RS266,Meghalaya,12th Instalment (August-November 2022),19950.0,4.86,12,True,2436.09022556391
+AU1297_RS266,Meghalaya,13th Instalment (December 2022-March 2023),10864.0,3.04,13,True,2798.232695139912
+AU1297_RS266,Meghalaya,14th Instalment (April-July 2023),33388.0,15.8,14,True,4732.2391278303585
+AU1297_RS266,Meghalaya,15th Instalment (August-November 2023),55836.0,32.14,15,True,5756.142990185544
+AU1297_RS266,Meghalaya,16th Instalment (December 2023-March 2024),101537.0,56.83,16,True,5596.974501905709
+AU1297_RS266,Meghalaya,17th Instalment (April-July 2024),130649.0,49.02,17,True,3752.0379030838358
+AU1297_RS266,Meghalaya,18th Instalment (August-November 2024),150412.0,33.91,18,True,2254.4743770443843
+AU321_RS258,Mizoram,2018-19 - 1st Period (Dec 18-March 19),27075.0,,1,False,
+AU321_RS258,Mizoram,2019-20 - 2nd Period (April-July 19),52684.0,,2,False,
+AU321_RS258,Mizoram,2019-20 - 3rd Period (Aug-Nov 19),65532.0,,3,False,
+AU321_RS258,Mizoram,2019-20 - 4th Period (Dec 19-Mach 20),62766.0,,4,False,
+AU1297_RS266,Mizoram,5th Instalment (April-July 2020),124447.0,26.55,5,True,2133.4383311771276
+AU1297_RS266,Mizoram,6th Instalment (August-November 2020),131985.0,27.05,6,True,2049.4753191650566
+AU1297_RS266,Mizoram,7th Instalment (December 2020-March 2021),145311.0,29.99,7,True,2063.849261239686
+AU1297_RS266,Mizoram,8th Instalment (April-July 2021),101627.0,22.16,8,True,2180.5228925384004
+AU1297_RS266,Mizoram,9th Instalment (August-November 2021),104171.0,21.8,9,True,2092.712943141565
+AU1297_RS266,Mizoram,10th Instalment (December 2021-March 2022),96172.0,20.66,10,True,2148.234413342761
+AU1297_RS266,Mizoram,11th Instalment (April-July 2022),86513.0,18.05,11,True,2086.39164056269
+AU1297_RS266,Mizoram,12th Instalment (August-November 2022),87298.0,18.46,12,True,2114.595981580334
+AU1297_RS266,Mizoram,13th Instalment (December 2022-March 2023),41698.0,9.32,13,True,2235.1191903688427
+AU1297_RS266,Mizoram,14th Instalment (April-July 2023),50741.0,14.7,14,True,2897.065489446404
+AU1297_RS266,Mizoram,15th Instalment (August-November 2023),55716.0,19.44,15,True,3489.123411587336
+AU1297_RS266,Mizoram,16th Instalment (December 2023-March 2024),86223.0,54.92,16,True,6369.530171763915
+AU1297_RS266,Mizoram,17th Instalment (April-July 2024),99140.0,36.82,17,True,3713.9398829937463
+AU1297_RS266,Mizoram,18th Instalment (August-November 2024),110285.0,31.36,18,True,2843.5417327832433
+AU321_RS258,Nagaland,2018-19 - 1st Period (Dec 18-March 19),32301.0,,1,False,
+AU321_RS258,Nagaland,2019-20 - 2nd Period (April-July 19),86447.0,,2,False,
+AU321_RS258,Nagaland,2019-20 - 3rd Period (Aug-Nov 19),158367.0,,3,False,
+AU321_RS258,Nagaland,2019-20 - 4th Period (Dec 19-Mach 20),185312.0,,4,False,
+AU1297_RS266,Nagaland,5th Instalment (April-July 2020),190781.0,41.31,5,True,2165.309962732138
+AU1297_RS266,Nagaland,6th Instalment (August-November 2020),195904.0,40.68,6,True,2076.527278667102
+AU1297_RS266,Nagaland,7th Instalment (December 2020-March 2021),196710.0,39.97,7,True,2031.9251690305525
+AU1297_RS266,Nagaland,8th Instalment (April-July 2021),174707.0,35.25,8,True,2017.663860062848
+AU1297_RS266,Nagaland,9th Instalment (August-November 2021),196940.0,44.73,9,True,2271.2501269422155
+AU1297_RS266,Nagaland,10th Instalment (December 2021-March 2022),199290.0,42.73,10,True,2144.1115961663904
+AU1297_RS266,Nagaland,11th Instalment (April-July 2022),182660.0,37.9,11,True,2074.8932442789883
+AU1297_RS266,Nagaland,12th Instalment (August-November 2022),195620.0,42.45,12,True,2170.0235149780187
+AU1297_RS266,Nagaland,13th Instalment (December 2022-March 2023),113538.0,23.13,13,True,2037.2034032658669
+AU1297_RS266,Nagaland,14th Instalment (April-July 2023),135346.0,32.56,14,True,2405.686167304538
+AU1297_RS266,Nagaland,15th Instalment (August-November 2023),118825.0,29.29,15,True,2464.96949295182
+AU1297_RS266,Nagaland,16th Instalment (December 2023-March 2024),142758.0,36.13,16,True,2530.85641435156
+AU1297_RS266,Nagaland,17th Instalment (April-July 2024),162275.0,49.02,17,True,3020.7980280388233
+AU1297_RS266,Nagaland,18th Instalment (August-November 2024),171914.0,42.84,18,True,2491.9436462417257
+AU321_RS258,Odisha,2018-19 - 1st Period (Dec 18-March 19),973860.0,,1,False,
+AU321_RS258,Odisha,2019-20 - 2nd Period (April-July 19),2992559.0,,2,False,
+AU321_RS258,Odisha,2019-20 - 3rd Period (Aug-Nov 19),2848151.0,,3,False,
+AU321_RS258,Odisha,2019-20 - 4th Period (Dec 19-Mach 20),2517666.0,,4,False,
+AU1297_RS266,Odisha,5th Instalment (April-July 2020),2102661.0,431.14,5,True,2050.449406727951
+AU1297_RS266,Odisha,6th Instalment (August-November 2020),2277015.0,467.87,6,True,2054.7515058091403
+AU1297_RS266,Odisha,7th Instalment (December 2020-March 2021),2493443.0,559.08,7,True,2242.200844374626
+AU1297_RS266,Odisha,8th Instalment (April-July 2021),2946608.0,1056.19,8,True,3584.42656776877
+AU1297_RS266,Odisha,9th Instalment (August-November 2021),3203303.0,844.17,9,True,2635.311114808683
+AU1297_RS266,Odisha,10th Instalment (December 2021-March 2022),3278430.0,769.79,10,True,2348.044643320126
+AU1297_RS266,Odisha,11th Instalment (April-July 2022),3310679.0,709.86,11,True,2144.1523022920674
+AU1297_RS266,Odisha,12th Instalment (August-November 2022),2154317.0,450.7,12,True,2092.0783710103947
+AU1297_RS266,Odisha,13th Instalment (December 2022-March 2023),2348531.0,632.29,13,True,2692.278705284282
+AU1297_RS266,Odisha,14th Instalment (April-July 2023),2693132.0,698.85,14,True,2594.9340767552426
+AU1297_RS266,Odisha,15th Instalment (August-November 2023),2496881.0,703.12,15,True,2815.9932331576874
+AU1297_RS266,Odisha,16th Instalment (December 2023-March 2024),2896596.0,792.82,16,True,2737.0748285228597
+AU1297_RS266,Odisha,17th Instalment (April-July 2024),3058323.0,737.88,17,True,2412.6948003857015
+AU1297_RS266,Odisha,18th Instalment (August-November 2024),3148993.0,688.53,18,True,2186.5085124038064
+AU321_RS258,Puducherry,2018-19 - 1st Period (Dec 18-March 19),4264.0,,1,False,
+AU321_RS258,Puducherry,2019-20 - 2nd Period (April-July 19),5779.0,,2,False,
+AU321_RS258,Puducherry,2019-20 - 3rd Period (Aug-Nov 19),9106.0,,3,False,
+AU321_RS258,Puducherry,2019-20 - 4th Period (Dec 19-Mach 20),9378.0,,4,False,
+AU1297_RS266,Puducherry,5th Instalment (April-July 2020),10198.0,2.2,5,True,2157.285742302412
+AU1297_RS266,Puducherry,6th Instalment (August-November 2020),10635.0,2.27,6,True,2134.4616831217677
+AU1297_RS266,Puducherry,7th Instalment (December 2020-March 2021),10344.0,2.1,7,True,2030.1624129930394
+AU1297_RS266,Puducherry,8th Instalment (April-July 2021),10251.0,2.07,8,True,2019.315188762072
+AU1297_RS266,Puducherry,9th Instalment (August-November 2021),10245.0,2.06,9,True,2010.736944851147
+AU1297_RS266,Puducherry,10th Instalment (December 2021-March 2022),10218.0,2.06,10,True,2016.0501076531611
+AU1297_RS266,Puducherry,11th Instalment (April-July 2022),10157.0,2.06,11,True,2028.15792064586
+AU1297_RS266,Puducherry,12th Instalment (August-November 2022),9953.0,2.01,12,True,2019.491610569677
+AU1297_RS266,Puducherry,13th Instalment (December 2022-March 2023),9118.0,1.83,13,True,2007.019083132266
+AU1297_RS266,Puducherry,14th Instalment (April-July 2023),8316.0,1.68,14,True,2020.20202020202
+AU1297_RS266,Puducherry,15th Instalment (August-November 2023),8054.0,1.68,15,True,2085.9200397318104
+AU1297_RS266,Puducherry,16th Instalment (December 2023-March 2024),8266.0,1.94,16,True,2346.963464795548
+AU1297_RS266,Puducherry,17th Instalment (April-July 2024),8182.0,1.73,17,True,2114.3974578342704
+AU1297_RS266,Puducherry,18th Instalment (August-November 2024),8032.0,1.63,18,True,2029.3824701195217
+AU321_RS258,Punjab,2018-19 - 1st Period (Dec 18-March 19),1181102.0,,1,False,
+AU321_RS258,Punjab,2019-20 - 2nd Period (April-July 19),1411655.0,,2,False,
+AU321_RS258,Punjab,2019-20 - 3rd Period (Aug-Nov 19),2221609.0,,3,False,
+AU321_RS258,Punjab,2019-20 - 4th Period (Dec 19-Mach 20),2301313.0,,4,False,
+AU1297_RS266,Punjab,5th Instalment (April-July 2020),1901760.0,417.89,5,True,2197.3855796735656
+AU1297_RS266,Punjab,6th Instalment (August-November 2020),1904609.0,384.87,6,True,2020.7297140777976
+AU1297_RS266,Punjab,7th Instalment (December 2020-March 2021),1871655.0,374.47,7,True,2000.7426582356259
+AU1297_RS266,Punjab,8th Instalment (April-July 2021),1759974.0,357.06,8,True,2028.7799706132023
+AU1297_RS266,Punjab,9th Instalment (August-November 2021),1738690.0,349.17,9,True,2008.236085788726
+AU1297_RS266,Punjab,10th Instalment (December 2021-March 2022),1713917.0,349.62,10,True,2039.8887460711342
+AU1297_RS266,Punjab,11th Instalment (April-July 2022),1697277.0,340.91,11,True,2008.5701980289607
+AU1297_RS266,Punjab,12th Instalment (August-November 2022),207562.0,41.87,12,True,2017.2285871209567
+AU1297_RS266,Punjab,13th Instalment (December 2022-March 2023),861009.0,308.69,13,True,3585.2122335538884
+AU1297_RS266,Punjab,14th Instalment (April-July 2023),856684.0,182.39,14,True,2129.023070350327
+AU1297_RS266,Punjab,15th Instalment (August-November 2023),497229.0,152.67,15,True,3070.416246839987
+AU1297_RS266,Punjab,16th Instalment (December 2023-March 2024),717284.0,247.63,16,True,3452.328505863786
+AU1297_RS266,Punjab,17th Instalment (April-July 2024),840274.0,290.56,17,True,3457.919678581034
+AU1297_RS266,Punjab,18th Instalment (August-November 2024),926039.0,272.77,18,True,2945.556288666028
+AU321_RS258,Rajasthan,2018-19 - 1st Period (Dec 18-March 19),64972.0,,1,False,
+AU321_RS258,Rajasthan,2019-20 - 2nd Period (April-July 19),3834966.0,,2,False,
+AU321_RS258,Rajasthan,2019-20 - 3rd Period (Aug-Nov 19),4782730.0,,3,False,
+AU321_RS258,Rajasthan,2019-20 - 4th Period (Dec 19-Mach 20),4778953.0,,4,False,
+AU1297_RS266,Rajasthan,5th Instalment (April-July 2020),5710181.0,1463.77,5,True,2563.4388822350816
+AU1297_RS266,Rajasthan,6th Instalment (August-November 2020),6315588.0,1425.38,6,True,2256.9236625315016
+AU1297_RS266,Rajasthan,7th Instalment (December 2020-March 2021),6641747.0,1432.89,7,True,2157.399250528513
+AU1297_RS266,Rajasthan,8th Instalment (April-July 2021),6932895.0,1600.32,8,True,2308.299779529331
+AU1297_RS266,Rajasthan,9th Instalment (August-November 2021),6968392.0,1468.18,9,True,2106.9136179480142
+AU1297_RS266,Rajasthan,10th Instalment (December 2021-March 2022),7143461.0,1525.19,10,True,2135.085499871841
+AU1297_RS266,Rajasthan,11th Instalment (April-July 2022),7111293.0,1493.25,11,True,2099.8291028087297
+AU1297_RS266,Rajasthan,12th Instalment (August-November 2022),5671257.0,1163.89,12,True,2052.2610772179787
+AU1297_RS266,Rajasthan,13th Instalment (December 2022-March 2023),5389136.0,1136.72,13,True,2109.280597112413
+AU1297_RS266,Rajasthan,14th Instalment (April-July 2023),5688844.0,1283.26,14,True,2255.7482680136773
+AU1297_RS266,Rajasthan,15th Instalment (August-November 2023),4865929.0,1179.78,15,True,2424.572984932579
+AU1297_RS266,Rajasthan,16th Instalment (December 2023-March 2024),6260280.0,1640.93,16,True,2621.176688582619
+AU1297_RS266,Rajasthan,17th Instalment (April-July 2024),6725665.0,1525.57,17,True,2268.281277762125
+AU1297_RS266,Rajasthan,18th Instalment (August-November 2024),7031163.0,1544.86,18,True,2197.1614084327157
+AU321_RS258,Sikkim,2018-19 - 1st Period (Dec 18-March 19),,,1,False,
+AU321_RS258,Sikkim,2019-20 - 2nd Period (April-July 19),1980.0,,2,False,
+AU321_RS258,Sikkim,2019-20 - 3rd Period (Aug-Nov 19),4007.0,,3,False,
+AU321_RS258,Sikkim,2019-20 - 4th Period (Dec 19-Mach 20),1633.0,,4,False,
+AU1297_RS266,Sikkim,5th Instalment (April-July 2020),5675.0,2.34,5,True,4123.348017621145
+AU1297_RS266,Sikkim,6th Instalment (August-November 2020),6090.0,1.22,6,True,2003.2840722495896
+AU1297_RS266,Sikkim,7th Instalment (December 2020-March 2021),7917.0,1.58,7,True,1995.705443981306
+AU1297_RS266,Sikkim,8th Instalment (April-July 2021),9532.0,2.35,8,True,2465.3797733948804
+AU1297_RS266,Sikkim,9th Instalment (August-November 2021),9754.0,2.04,9,True,2091.449661677261
+AU1297_RS266,Sikkim,10th Instalment (December 2021-March 2022),9911.0,2.23,10,True,2250.0252244980325
+AU1297_RS266,Sikkim,11th Instalment (April-July 2022),9489.0,2.26,11,True,2381.705132258404
+AU1297_RS266,Sikkim,12th Instalment (August-November 2022),11196.0,4.41,12,True,3938.906752411576
+AU1297_RS266,Sikkim,13th Instalment (December 2022-March 2023),8052.0,1.98,13,True,2459.0163934426228
+AU1297_RS266,Sikkim,14th Instalment (April-July 2023),10617.0,2.84,14,True,2674.9552604313835
+AU1297_RS266,Sikkim,15th Instalment (August-November 2023),13945.0,6.73,15,True,4826.10254571531
+AU1297_RS266,Sikkim,16th Instalment (December 2023-March 2024),20607.0,9.72,16,True,4716.843790944825
+AU1297_RS266,Sikkim,17th Instalment (April-July 2024),24364.0,6.4,17,True,2626.8264652766375
+AU1297_RS266,Sikkim,18th Instalment (August-November 2024),28100.0,6.66,18,True,2370.106761565836
+AU321_RS258,Tamil Nadu,2018-19 - 1st Period (Dec 18-March 19),2161247.0,,1,False,
+AU321_RS258,Tamil Nadu,2019-20 - 2nd Period (April-July 19),2970900.0,,2,False,
+AU321_RS258,Tamil Nadu,2019-20 - 3rd Period (Aug-Nov 19),3374038.0,,3,False,
+AU321_RS258,Tamil Nadu,2019-20 - 4th Period (Dec 19-Mach 20),3437327.0,,4,False,
+AU1297_RS266,Tamil Nadu,5th Instalment (April-July 2020),4304755.0,933.63,5,True,2168.8342309841096
+AU1297_RS266,Tamil Nadu,6th Instalment (August-November 2020),4408832.0,902.8,6,True,2047.7078736499825
+AU1297_RS266,Tamil Nadu,7th Instalment (December 2020-March 2021),3751562.0,756.76,7,True,2017.1864412743278
+AU1297_RS266,Tamil Nadu,8th Instalment (April-July 2021),3774679.0,792.51,8,True,2099.5427690672504
+AU1297_RS266,Tamil Nadu,9th Instalment (August-November 2021),3709968.0,744.82,9,True,2007.6183945521905
+AU1297_RS266,Tamil Nadu,10th Instalment (December 2021-March 2022),3673798.0,742.28,10,True,2020.4703688117854
+AU1297_RS266,Tamil Nadu,11th Instalment (April-July 2022),3192734.0,707.52,11,True,2216.0317771540003
+AU1297_RS266,Tamil Nadu,12th Instalment (August-November 2022),2207396.0,452.93,12,True,2051.8746976074976
+AU1297_RS266,Tamil Nadu,13th Instalment (December 2022-March 2023),2029560.0,414.3,13,True,2041.3291550878023
+AU1297_RS266,Tamil Nadu,14th Instalment (April-July 2023),2095323.0,443.91,14,True,2118.5755131786364
+AU1297_RS266,Tamil Nadu,15th Instalment (August-November 2023),2045364.0,491.39,15,True,2402.4574598946692
+AU1297_RS266,Tamil Nadu,16th Instalment (December 2023-March 2024),2150553.0,503.46,16,True,2341.072273038609
+AU1297_RS266,Tamil Nadu,17th Instalment (April-July 2024),2183435.0,460.03,17,True,2106.9095255869765
+AU1297_RS266,Tamil Nadu,18th Instalment (August-November 2024),2194272.0,455.86,18,True,2077.499963541439
+AU321_RS258,Telangana,2018-19 - 1st Period (Dec 18-March 19),2027850.0,,1,False,
+AU321_RS258,Telangana,2019-20 - 2nd Period (April-July 19),3160187.0,,2,False,
+AU321_RS258,Telangana,2019-20 - 3rd Period (Aug-Nov 19),3422274.0,,3,False,
+AU321_RS258,Telangana,2019-20 - 4th Period (Dec 19-Mach 20),3243799.0,,4,False,
+AU1297_RS266,Telangana,5th Instalment (April-July 2020),3473585.0,748.58,5,True,2155.064580253542
+AU1297_RS266,Telangana,6th Instalment (August-November 2020),3586322.0,735.54,6,True,2050.95917209888
+AU1297_RS266,Telangana,7th Instalment (December 2020-March 2021),3573990.0,729.97,7,True,2042.451154032328
+AU1297_RS266,Telangana,8th Instalment (April-July 2021),3549941.0,730.53,8,True,2057.8651870552217
+AU1297_RS266,Telangana,9th Instalment (August-November 2021),3593142.0,793.92,9,True,2209.542511818347
+AU1297_RS266,Telangana,10th Instalment (December 2021-March 2022),3606995.0,753.59,10,True,2089.2460344414117
+AU1297_RS266,Telangana,11th Instalment (April-July 2022),3553308.0,740.78,11,True,2084.761579913703
+AU1297_RS266,Telangana,12th Instalment (August-November 2022),3253039.0,656.34,12,True,2017.6210614136505
+AU1297_RS266,Telangana,13th Instalment (December 2022-March 2023),2984556.0,615.05,13,True,2060.7755391421706
+AU1297_RS266,Telangana,14th Instalment (April-July 2023),2951102.0,614.58,14,True,2082.5440801436207
+AU1297_RS266,Telangana,15th Instalment (August-November 2023),2871809.0,664.13,15,True,2312.584158626148
+AU1297_RS266,Telangana,16th Instalment (December 2023-March 2024),3064579.0,765.24,16,True,2497.047718463123
+AU1297_RS266,Telangana,17th Instalment (April-July 2024),3098116.0,654.66,17,True,2113.0906654237606
+AU1297_RS266,Telangana,18th Instalment (August-November 2024),3077274.0,627.46,18,True,2039.0124506300056
+AU321_RS258,Tripura,2018-19 - 1st Period (Dec 18-March 19),151863.0,,1,False,
+AU321_RS258,Tripura,2019-20 - 2nd Period (April-July 19),180865.0,,2,False,
+AU321_RS258,Tripura,2019-20 - 3rd Period (Aug-Nov 19),189194.0,,3,False,
+AU321_RS258,Tripura,2019-20 - 4th Period (Dec 19-Mach 20),183202.0,,4,False,
+AU1297_RS266,Tripura,5th Instalment (April-July 2020),199346.0,42.92,5,True,2153.0404422461447
+AU1297_RS266,Tripura,6th Instalment (August-November 2020),210166.0,42.74,6,True,2033.630558701217
+AU1297_RS266,Tripura,7th Instalment (December 2020-March 2021),219040.0,44.48,7,True,2030.679327976625
+AU1297_RS266,Tripura,8th Instalment (April-July 2021),212358.0,43.99,8,True,2071.5018977387244
+AU1297_RS266,Tripura,9th Instalment (August-November 2021),214747.0,43.71,9,True,2035.4184226089305
+AU1297_RS266,Tripura,10th Instalment (December 2021-March 2022),219098.0,46.24,10,True,2110.4711133830524
+AU1297_RS266,Tripura,11th Instalment (April-July 2022),233210.0,53.59,11,True,2297.9289052785048
+AU1297_RS266,Tripura,12th Instalment (August-November 2022),231359.0,49.4,12,True,2135.2097821999578
+AU1297_RS266,Tripura,13th Instalment (December 2022-March 2023),219164.0,44.63,13,True,2036.3745870672192
+AU1297_RS266,Tripura,14th Instalment (April-July 2023),221251.0,45.63,14,True,2062.363559938712
+AU1297_RS266,Tripura,15th Instalment (August-November 2023),194948.0,44.57,15,True,2286.250692492357
+AU1297_RS266,Tripura,16th Instalment (December 2023-March 2024),215284.0,49.14,16,True,2282.566284535776
+AU1297_RS266,Tripura,17th Instalment (April-July 2024),224908.0,54.88,17,True,2440.1088445053088
+AU1297_RS266,Tripura,18th Instalment (August-November 2024),229303.0,47.65,18,True,2078.036484476871
+AU321_RS258,Uttar Pradesh,2018-19 - 1st Period (Dec 18-March 19),11193600.0,,1,False,
+AU321_RS258,Uttar Pradesh,2019-20 - 2nd Period (April-July 19),15146240.0,,2,False,
+AU321_RS258,Uttar Pradesh,2019-20 - 3rd Period (Aug-Nov 19),17513799.0,,3,False,
+AU321_RS258,Uttar Pradesh,2019-20 - 4th Period (Dec 19-Mach 20),18181519.0,,4,False,
+AU1297_RS266,Uttar Pradesh,5th Instalment (April-July 2020),21312066.0,5056.9,5,True,2372.7873215107347
+AU1297_RS266,Uttar Pradesh,6th Instalment (August-November 2020),21907050.0,4620.58,6,True,2109.1749003174777
+AU1297_RS266,Uttar Pradesh,7th Instalment (December 2020-March 2021),22816719.0,4754.51,7,True,2083.783387085584
+AU1297_RS266,Uttar Pradesh,8th Instalment (April-July 2021),23725532.0,5516.91,8,True,2325.3050764046093
+AU1297_RS266,Uttar Pradesh,9th Instalment (August-November 2021),23953319.0,5057.4,9,True,2111.356676709395
+AU1297_RS266,Uttar Pradesh,10th Instalment (December 2021-March 2022),24174018.0,5199.52,10,True,2150.8712370446656
+AU1297_RS266,Uttar Pradesh,11th Instalment (April-July 2022),24096465.0,5043.12,11,True,2092.887898702154
+AU1297_RS266,Uttar Pradesh,12th Instalment (August-November 2022),18226376.0,3716.93,12,True,2039.3137944701677
+AU1297_RS266,Uttar Pradesh,13th Instalment (December 2022-March 2023),17427348.0,3693.39,13,True,2119.3069651217156
+AU1297_RS266,Uttar Pradesh,14th Instalment (April-July 2023),18654255.0,4249.82,14,True,2278.204088021741
+AU1297_RS266,Uttar Pradesh,15th Instalment (August-November 2023),17561387.0,4181.86,15,True,2381.2811596259453
+AU1297_RS266,Uttar Pradesh,16th Instalment (December 2023-March 2024),20364792.0,5376.64,16,True,2640.164456381386
+AU1297_RS266,Uttar Pradesh,17th Instalment (April-July 2024),21455861.0,4805.75,17,True,2239.830878844713
+AU1297_RS266,Uttar Pradesh,18th Instalment (August-November 2024),22572533.0,4980.88,18,True,2206.6110170267557
+AU321_RS258,Uttarakhand,2018-19 - 1st Period (Dec 18-March 19),415378.0,,1,False,
+AU321_RS258,Uttarakhand,2019-20 - 2nd Period (April-July 19),525702.0,,2,False,
+AU321_RS258,Uttarakhand,2019-20 - 3rd Period (Aug-Nov 19),656234.0,,3,False,
+AU321_RS258,Uttarakhand,2019-20 - 4th Period (Dec 19-Mach 20),696188.0,,4,False,
+AU1297_RS266,Uttarakhand,5th Instalment (April-July 2020),767901.0,169.53,5,True,2207.706462161138
+AU1297_RS266,Uttarakhand,6th Instalment (August-November 2020),833784.0,174.78,6,True,2096.226360784088
+AU1297_RS266,Uttarakhand,7th Instalment (December 2020-March 2021),849255.0,174.36,7,True,2053.0935937969166
+AU1297_RS266,Uttarakhand,8th Instalment (April-July 2021),836869.0,174.74,8,True,2088.0209447356756
+AU1297_RS266,Uttarakhand,9th Instalment (August-November 2021),878369.0,185.8,9,True,2115.2841231874077
+AU1297_RS266,Uttarakhand,10th Instalment (December 2021-March 2022),891441.0,186.58,10,True,2093.0156903261127
+AU1297_RS266,Uttarakhand,11th Instalment (April-July 2022),889330.0,182.19,11,True,2048.6208718923235
+AU1297_RS266,Uttarakhand,12th Instalment (August-November 2022),672047.0,135.92,12,True,2022.4775945729982
+AU1297_RS266,Uttarakhand,13th Instalment (December 2022-March 2023),720033.0,157.78,13,True,2191.288454834709
+AU1297_RS266,Uttarakhand,14th Instalment (April-July 2023),759700.0,168.85,14,True,2222.5878636303805
+AU1297_RS266,Uttarakhand,15th Instalment (August-November 2023),679664.0,160.88,15,True,2367.0519550836884
+AU1297_RS266,Uttarakhand,16th Instalment (December 2023-March 2024),751003.0,183.23,16,True,2439.80383567043
+AU1297_RS266,Uttarakhand,17th Instalment (April-July 2024),786739.0,177.95,17,True,2261.868294313616
+AU1297_RS266,Uttarakhand,18th Instalment (August-November 2024),796926.0,168.75,18,True,2117.511538085092
+AU321_RS258,West Bengal,2018-19 - 1st Period (Dec 18-March 19),,,1,False,
+AU321_RS258,West Bengal,2019-20 - 2nd Period (April-July 19),,,2,False,
+AU321_RS258,West Bengal,2019-20 - 3rd Period (Aug-Nov 19),,,3,False,
+AU321_RS258,West Bengal,2019-20 - 4th Period (Dec 19-Mach 20),,,4,False,
+AU1297_RS266,West Bengal,5th Instalment (April-July 2020),,,5,False,
+AU1297_RS266,West Bengal,6th Instalment (August-November 2020),,,6,False,
+AU1297_RS266,West Bengal,7th Instalment (December 2020-March 2021),,,7,False,
+AU1297_RS266,West Bengal,8th Instalment (April-July 2021),2029750.0,573.53,8,True,2825.6189185860326
+AU1297_RS266,West Bengal,9th Instalment (August-November 2021),3584786.0,980.01,9,True,2733.803356741518
+AU1297_RS266,West Bengal,10th Instalment (December 2021-March 2022),4629273.0,1074.79,10,True,2321.7252471392376
+AU1297_RS266,West Bengal,11th Instalment (April-July 2022),4678485.0,1030.14,11,True,2201.866629902629
+AU1297_RS266,West Bengal,12th Instalment (August-November 2022),4443944.0,928.69,12,True,2089.787810107418
+AU1297_RS266,West Bengal,13th Instalment (December 2022-March 2023),4290711.0,881.4,13,True,2054.2050023877164
+AU1297_RS266,West Bengal,14th Instalment (April-July 2023),4471613.0,1003.94,14,True,2245.1406237525475
+AU1297_RS266,West Bengal,15th Instalment (August-November 2023),3980679.0,909.34,15,True,2284.3841465237465
+AU1297_RS266,West Bengal,16th Instalment (December 2023-March 2024),4405641.0,1140.25,16,True,2588.1591350725125
+AU1297_RS266,West Bengal,17th Instalment (April-July 2024),4498403.0,964.42,17,True,2143.9164076673433
+AU1297_RS266,West Bengal,18th Instalment (August-November 2024),4502904.0,931.49,18,True,2068.6428136153913

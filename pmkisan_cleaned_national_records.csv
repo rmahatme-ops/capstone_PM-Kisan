@@ -1,0 +1,33 @@
+Source,State,Period_Label,Beneficiaries,Amount_Disbursed_Rs_Cr,Instalment
+AU321_RS258,Total,2018-19 - 1st Period (Dec 18-March 19),31614369.0,,1
+AU321_RS258,Total,2019-20 - 2nd Period (April-July 19),60032675.0,,2
+AU321_RS258,Total,2019-20 - 3rd Period (Aug-Nov 19),76595566.0,,3
+AU321_RS258,Total,2019-20 - 4th Period (Dec 19-Mach 20),82005401.0,,4
+AU321_RS258,Total,2020-21 - 5th period (April-July 20),92681137.0,,5
+AU321_RS258,Total,2020-21 - 6th Period (Aug-Nov 20),97192767.0,,6
+AU321_RS258,Total,2020-21 - 7th Period (Dec 20-Mach 21),98459403.0,,7
+AU321_RS258,Total,2021-22 - 8th Period (April-July 21),99782225.0,,8
+AU321_RS258,Total,2021-22 - 9th Period (Aug-Nov 21),103408208.0,,9
+AU321_RS258,Total,2021-22 - 10th Period (Dec 21-March 22),104124593.0,,10
+AU321_RS258,Total,2022-23 - 11th Period (April-July 22),104559905.0,,11
+AU321_RS258,Total,2022-23 - 12th Period (Aug-Nov 22),84214408.0,,12
+AU1297_RS266,Grand Total,5th Instalment (April-July 2020),92693619.0,20989.37,5
+AU1297_RS266,Grand Total,6th Instalment (August-November 2020),97225907.0,20475.94,6
+AU1297_RS266,Grand Total,7th Instalment (December 2020-March 2021),98473258.0,20474.54,7
+AU1297_RS266,Grand Total,8th Instalment (April-July 2021),99910514.0,22413.21,8
+AU1297_RS266,Grand Total,9th Instalment (August-November 2021),103441242.0,22394.51,9
+AU1297_RS266,Grand Total,10th Instalment (December 2021-March 2022),104166702.0,22342.93,10
+AU1297_RS266,Grand Total,11th Instalment (April-July 2022),104838981.0,22616.31,11
+AU1297_RS266,Grand Total,12th Instalment (August-November 2022),85730472.0,18039.81,12
+AU1297_RS266,Grand Total,13th Instalment (December 2022-March 2023),81234383.0,17649.42,13
+AU1297_RS266,Grand Total,14th Instalment (April-July 2023),85676569.0,19202.49,14
+AU1297_RS266,Grand Total,15th Instalment (August-November 2023),81216250.0,19596.6,15
+AU1297_RS266,Grand Total,16th Instalment (December 2023-March 2024),90427479.0,23087.44,16
+AU1297_RS266,Grand Total,17th Instalment (April-July 2024),93767395.0,21029.96,17
+AU1297_RS266,Grand Total,18th Instalment (August-November 2024),95897635.0,20657.36,18
+AU520_RS266,ALL INDIA,"December 2022 - March, 2023",81234383.0,17649.42,13
+AU520_RS266,ALL INDIA,"April 2023 - July, 2023",85676569.0,19202.49,14
+AU520_RS266,ALL INDIA,"August 2023 - November, 2023",81216250.0,19596.6,15
+AU520_RS266,ALL INDIA,"December 2023 - March, 2024",90427479.0,23087.44,16
+AU520_RS266,ALL INDIA,"April 2024 - July, 2024",93767395.0,21029.96,17
+AU520_RS266,ALL INDIA,"August 2024 - November, 2024",95897635.0,20657.36,18

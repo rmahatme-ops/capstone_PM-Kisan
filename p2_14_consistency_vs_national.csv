@@ -1,0 +1,33 @@
+State,Correlation,RMSE_Gap_pp,Consistency
+Uttar Pradesh,0.98,2.78,High
+Gujarat,0.84,3.89,High
+Telangana,0.89,4.03,High
+Uttarakhand,0.88,4.38,High
+Andhra Pradesh,0.83,5.25,Moderate
+Maharashtra,0.7,5.38,Moderate
+Bihar,0.6,5.43,Moderate
+Madhya Pradesh,0.61,5.43,Moderate
+Chhattisgarh,0.77,5.7,Moderate
+Tripura,0.57,5.82,Moderate
+Rajasthan,0.91,6.07,Moderate
+Haryana,0.8,6.18,Moderate
+Puducherry,0.47,6.55,Moderate
+Tamil Nadu,0.83,7.42,Moderate
+Kerala,0.87,8.06,Moderate
+Ladakh,0.47,8.47,Moderate
+Odisha,0.87,8.71,Moderate
+Himachal Pradesh,0.74,8.77,Moderate
+Delhi,0.62,9.26,Moderate
+Nagaland,0.41,14.54,Low
+Dadra and Nagar Haveli and Daman and Diu,0.09,14.55,Low
+Karnataka,0.05,16.56,Low
+Arunachal Pradesh,0.52,17.79,Low
+Manipur,-0.21,19.08,Low
+Jharkhand,0.71,19.98,Low
+Andaman and Nicobar Islands,0.32,20.05,Low
+Mizoram,0.47,22.21,Low
+Jammu and Kashmir,0.44,22.62,Low
+West Bengal,0.34,25.24,Low
+Assam,0.35,26.25,Low
+Meghalaya,0.57,67.69,Low
+Punjab,0.08,92.03,Low
