@@ -1,6 +1,8 @@
 # PM-KISAN: State-wise, Instalment-wise Analysis (2018-2024)
 Capstone Mini Project, CSBS A2 GROUP-3
+
 PROBLEM STATEMENT-
+
 The project analyzes state-wise, instalment-wise PM-KISAN beneficiary and disbursement data (2018–2024) to track trends in farmer reach across states and time, identify states with sharp drops in beneficiaries between instalments, compute average disbursement per beneficiary across states and periods, and benchmark state-level patterns against the national trend to assess consistency in scheme delivery.
 
 DATASET LINK-
