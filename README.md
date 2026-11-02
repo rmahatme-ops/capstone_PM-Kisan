@@ -1,12 +1,7 @@
 # PM-KISAN: State-wise, Instalment-wise Analysis (2018-2024)
-Capstone Mini Project, CSBS (Lab CA)
+Capstone Mini Project, CSBS A2 GROUP-3
 
-## How to run
-```
-pip install pandas numpy scipy statsmodels matplotlib seaborn
-python run_all.py            # runs everything in order, saves tables (p2_*.csv) and graphs (graph*.png)
-```
-Or run the scripts one by one, in this order (needed for the viva demonstrations):
+
 
 | Step | Script | What it does | Main output |
 |---|---|---|---|
@@ -38,16 +33,9 @@ Input: `pmkisan_master_merged.csv` (four parliamentary-reply tables stacked toge
 | Visualization (Matplotlib/Seaborn) | `data_visualization.py` |
 | Statistics and forecasting (SciPy/Statsmodels) | `data_statistics.py`, `data_timeseries.py` |
 
-## Syllabus mapping
-| Unit | Topics used | Where |
-|---|---|---|
-| 1 Python | variables, dictionaries, loops, if/elif/else, break/continue/pass, exceptions, functions, recursion | `pmkisan_utils.py` |
-| 2 Modules | math, random, statistics, array, string functions, re, datetime, os, own module | `pmkisan_utils.py` |
-| 3 NumPy and Pandas | arrays, groupby, pivot_table, loc/iloc, missing values | `data_timeseries.py`, `data_analysis.py` |
-| 4 Matplotlib and Seaborn | line, bar, box plot, heat map, subplots | `data_visualization.py` |
-| 5 SciPy and Statsmodels | descriptive stats, normality, t-tests, ANOVA, chi-square, Wilcoxon, Kruskal-Wallis, ADF, ARIMA | `data_statistics.py`, `data_timeseries.py` |
 
-## Key decisions (be ready to explain)
+
+## Key decisions 
 - Instalment number comes from the ordinal in the label, otherwise from the season and year.
 - Overlapping sources: the newest and most complete table wins (AU1297, then AU321, then AU795, then AU520).
 - Missing values are left blank, not filled with 0. Amounts exist only for instalments 5-18.
