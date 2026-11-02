@@ -19,7 +19,7 @@ https://www.data.gov.in/resource/instalment-wise-details-beneficiaries-and-amoun
 | - | `pmkisan_utils.py` | Our own module: helper functions and constants used by the scripts | - |
 | - | `run_all.py` | Runs steps 1-5 in order | logs |
 
-Input: `pmkisan_master_merged.csv` (four parliamentary-reply tables stacked together). Add the four source links here before submission: [links].
+
 
 ## Project objectives and where they are answered
 | Objective | Code | Graph |
