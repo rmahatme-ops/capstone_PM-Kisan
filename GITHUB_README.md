@@ -65,7 +65,7 @@ Input: `pmkisan_master_merged.csv` (four parliamentary-reply tables stacked toge
 | 4 Matplotlib and Seaborn | line, bar, box plot, heat map, subplots | `data_visualization.py` |
 | 5 SciPy and Statsmodels | descriptive stats, normality, t-tests, ANOVA, chi-square, Wilcoxon, Kruskal-Wallis, ADF, ARIMA | `data_statistics.py`, `data_timeseries.py` |
 
-## Key decisions 
+## Key decisions (be ready to explain)
 - Instalment number comes from the ordinal in the label, otherwise from the season and year.
 - Overlapping sources: the newest and most complete table wins (AU1297, then AU321, then AU795, then AU520).
 - Missing values are left blank, not filled with 0. Amounts exist only for instalments 5-18.
