@@ -1,14 +1,3 @@
-# ============================================
-# PM-KISAN PROJECT - DATA VISUALIZATION (8 graphs, one or two per objective)
-# Run AFTER data_analysis / final_analysis. Needs these files in the same folder:
-#   p2_01, p2_05, p2_06, p2_09, p2_11, p2_12, p2_13, p2_14, p2_15, p2_16
-#
-# Objective 1  Reach across states and time ........ Graph 1, Graph 2
-# Objective 2  States with sharp drops ............. Graph 3
-# Objective 3  Disbursement per beneficiary ........ Graph 6, Graph 7
-# Objective 4  Benchmark against national trend .... Graph 4, Graph 5
-# Forecasting .................................... Graph 8
-# ============================================
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -22,9 +11,6 @@ def finish(filename):
     plt.show()
 
 
-# ---------------------------------------------
-# LOAD THE RESULTS SAVED BY THE ANALYSIS STEP
-# ---------------------------------------------
 pct = pd.read_csv("p2_06_pct_change_national.csv")
 pivot = pd.read_csv("p2_05_pivot_state_by_instalment.csv", index_col="State")
 pivot.columns = pivot.columns.astype(int)               # column names become numbers
@@ -38,11 +24,6 @@ fc = pd.read_csv("p2_15_forecast_arima.csv")
 nat_one = pd.read_csv("p2_16_national_one_row_per_instalment.csv", index_col="Instalment")
 rs_state = pd.read_csv("p2_09_disbursement_per_beneficiary_by_state.csv")
 sel = pd.read_csv("p2_01_selected_columns.csv")
-
-
-# =============================================
-# OBJECTIVE 1: REACH ACROSS STATES AND TIME
-# =============================================
 
 # GRAPH 1: Line graph - total beneficiaries across instalments
 plt.figure(figsize=(11, 5.5))
@@ -79,11 +60,6 @@ ax.set_xlabel("Instalment number")
 ax.set_ylabel("")
 finish("graph2_heatmap_pct_change.png")
 
-
-# =============================================
-# OBJECTIVE 2: STATES WITH SHARP DROPS
-# =============================================
-
 # GRAPH 3: Bar chart - sharpest drops (state and instalment)
 top_drops = drops.head(14).iloc[::-1]
 labels = [f"{s} (I{i})" for s, i in zip(top_drops["State"], top_drops["Instalment"])]
@@ -99,11 +75,6 @@ plt.title("Sharpest Drops in Beneficiaries (fall of 10%+ on a base of 10,000+)\n
 plt.xlabel("% change vs previous instalment")
 plt.grid(True, axis="x", alpha=0.3)
 finish("graph3_sharpest_drops.png")
-
-
-# =============================================
-# OBJECTIVE 4: BENCHMARK AGAINST THE NATIONAL TREND
-# =============================================
 
 # GRAPH 4: Six largest states vs the national % change
 six = pivot[18].sort_values(ascending=False).head(6).index.tolist()
@@ -140,11 +111,6 @@ plt.legend(handles=[plt.Rectangle((0, 0), 1, 1, color=v) for v in palette.values
 plt.tick_params(axis="y", labelsize=8)
 finish("graph5_consistency.png")
 
-
-# =============================================
-# OBJECTIVE 3: DISBURSEMENT PER BENEFICIARY
-# =============================================
-
 # GRAPH 6: Rs per beneficiary by state (top 15, median)
 top = rs_state.head(15).iloc[::-1]
 
@@ -178,11 +144,6 @@ plt.ylabel("Rupees per beneficiary")
 plt.legend()
 plt.grid(True, axis="y", alpha=0.3)
 finish("graph7_rs_by_financial_year.png")
-
-
-# =============================================
-# FORECASTING
-# =============================================
 
 # GRAPH 8: National series with ARIMA forecast
 hist = nat_one["Beneficiaries"] / 1e6
