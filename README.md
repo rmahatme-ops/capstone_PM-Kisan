@@ -35,7 +35,7 @@ Input: `pmkisan_master_merged.csv` (four parliamentary-reply tables stacked toge
 | `AU795_LS_2023` | Lok Sabha Unstarred Question No. 795, answered 25 July 2023 ("Beneficiaries under PM-KISAN Scheme"): state-wise, period-wise beneficiaries, periods 1-13 | https://eparlib.sansad.in/bitstream/123456789/2503198/1/AU795.pdf |
 | `AU1297_RS266` | Rajya Sabha Unstarred Question No. 1297, answered 6 December 2024 ("Implementation of PM-KISAN"): state-wise, instalment-wise beneficiaries and amount, 5th instalment onward | https://rsdebate.nic.in/bitstream/123456789/751755/1/PQ_266_06122024_U1297_p146_p151.pdf |
 | `AU520_RS266` | Rajya Sabha Unstarred Question No. 520, answered 29 November 2024: national instalment-wise beneficiaries and amount, Dec 2022 - March 2023 onward | https://rsdebate.nic.in/bitstream/123456789/753883/1/PQ_266_29112024_U520_p961_p963.pdf |
-| `AU321_RS258` | Rajya Sabha (258th session, December 2022) Unstarred Question No. 321: state-wise, period-wise beneficiaries, instalments 1-12 | [link to be added: find it at sansad.in > Rajya Sabha > Questions, session 258, question 321] |
+| `AU321_RS258` | Rajya Sabha (258th session, December 2022) Unstarred Question No. 321: state-wise, period-wise beneficiaries, instalments 1-12 | |
 
 
 ## Project objectives and where they are answered
@@ -65,7 +65,7 @@ Input: `pmkisan_master_merged.csv` (four parliamentary-reply tables stacked toge
 | 4 Matplotlib and Seaborn | line, bar, box plot, heat map, subplots | `data_visualization.py` |
 | 5 SciPy and Statsmodels | descriptive stats, normality, t-tests, ANOVA, chi-square, Wilcoxon, Kruskal-Wallis, ADF, ARIMA | `data_statistics.py`, `data_timeseries.py` |
 
-## Key decisions (be ready to explain)
+## Key decisions 
 - Instalment number comes from the ordinal in the label, otherwise from the season and year.
 - Overlapping sources: the newest and most complete table wins (AU1297, then AU321, then AU795, then AU520).
 - Missing values are left blank, not filled with 0. Amounts exist only for instalments 5-18.
